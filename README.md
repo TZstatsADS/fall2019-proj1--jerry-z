@@ -1,18 +1,18 @@
 # Applied Data Science @ Columbia
 ## Fall 2019
-## Project 1: A "data story" on the songs of our times
+## Eminem vs. Hip-Hop | A Data Story
 
-<img src="figs/title1.jpeg" width="500">
+<img src="figs/eminem_banner.jpg" width="500">
 
 ### [Project Description](doc/)
 This is the first and only *individual* (as opposed to *team*) this semester. 
 
 Term: Fall 2019
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: Eminem: The Most Influential Hip-Hop Artist of the 21st Century
++ This project is conducted by Jerry Zhang
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: Eminem has made himself a household name in the Hip-hop community with his lyrical prowess and musical talent. The following analysis serves to analyze and compare Eminem's music with that of Hip-hop in the 21st century to determine how he differs from this generations hip-hop artists and what makes him a unique talent.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
